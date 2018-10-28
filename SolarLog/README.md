@@ -19,4 +19,4 @@ Den Inhalt von [flow.md](https://raw.githubusercontent.com/Sineos/redmatic-flow-
 
 ## Dashboard
 
-<img src="https://raw.githubusercontent.com/Sineos/redmatic-flow-sysinfo/master/SolarLog/src_readme/dash.png" width="400"/>
+<img src="https://raw.githubusercontent.com/Sineos/redmatic-flow-misc/master/SolarLog/src_readme/dash.png" width="400"/>
