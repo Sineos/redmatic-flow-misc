@@ -1,6 +1,6 @@
 # redmatic-flow-misc-SolarLog
 
-Dieser Node Red Flow ist speziell für [RedMatic](https://github.com/hobbyquaker/RedMatic) und dient zum Auslesen eines [Solar-Log](https://flows.nodered.org/node/node-red-contrib-os) PV Monitoring Systems:
+Dieser Node Red Flow ist speziell für [RedMatic](https://github.com/hobbyquaker/RedMatic) und dient zum Auslesen eines [Solar-Log](https://www.solar-log.com/de/) PV Monitoring Systems:
 
  - Auslesen der PV Daten alle 15 Sekunden
  - Berechnung der überschüssigen PV Leistung
