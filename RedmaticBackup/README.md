@@ -39,7 +39,7 @@ Die Einstellungen werden mit dem ersten Anlegen des Flows erzeugt. Werden diese 
 
 ### Function Node: Build Commands
 
-Diese Function Node definiert die einzelnen Linux Shell Befehle, die später zur Ausführung gebracht werden. Zu diesem Zeitpunkt sind die Kommandos eine einfache Zeichenkette. Wo notwendig werden dir Einstellungen aus den [Backup Settings](#settings) eingefügt.
+Diese Function Node definiert die einzelnen Linux Shell Befehle, die später zur Ausführung gebracht werden. Zu diesem Zeitpunkt sind die Kommandos eine einfache Zeichenkette. Wo notwendig werden die Einstellungen aus den [Backup Settings](#settings) eingefügt.
 
 Die einzelnen Kommandos werden am Schluss in einen Array geschrieben und als `msg.queue` weiter geleitet.
 
