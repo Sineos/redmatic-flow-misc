@@ -28,7 +28,7 @@ Den Inhalt von [flow.md](https://raw.githubusercontent.com/Sineos/redmatic-flow-
 
 ## Dashboard
 
-<img src="https://raw.githubusercontent.com/Sineos/redmatic-flow-misc/master/FloorHeating/src_readme/dash.png" width="400"/>
+<img src="https://raw.githubusercontent.com/Sineos/redmatic-flow-misc/master/FloorHeating/src_readme/dashboard.png" width="400"/>
 
 ## Konfiguration der einzelnen Nodes
 
