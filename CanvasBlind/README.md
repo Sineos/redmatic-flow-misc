@@ -10,11 +10,11 @@ Dieser Node-Red Flow steuert eine Markise (oder Rolladen) und implementiert folg
 - Reaktion auf Regen und Wind
 	- Reaktion auf Wetterbedingungen aktivier- / deaktivierbar
 	- Einfahren der Markise bei Regen oder Wind stärker als X m/s
-	- Manuelles Übersteuern der Automatik für eine definierte Zeit 
+	- Manuelles Übersteuern der Automatik
+	- Rückkehr zur automatischen Steuerung nach einer definierten Zeit (in Stunden) 
 - Visualisierung und Steuerung über ein Dashboard
 	- Icons für Wetterbedingungen. Icons werden bei schlechtem Wetter rot
 	- Steuerung der Wetterreaktion bzw. Erlauben einer manuellen Übersteuerung
-	- Rückkehr zur automatischen Steuerung nach einer definierten Zeit (in Stunden) 
 	- Log mit Statusmeldungen
 - Dokumentation der Logik (nur Englisch) in den `Comment` Nodes
 
