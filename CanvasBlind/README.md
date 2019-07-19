@@ -52,18 +52,19 @@ Den Inhalt von [flow.md](https://raw.githubusercontent.com/Sineos/redmatic-flow-
 - In der `Flow Settings` node verweist der Pfad der Icons auf `httpStatic/icon`. Ggf. muss der Pfad bei anderen Ordnernamen geändert werden. 
 - `settings.json` welches die Nutzung von Node-Red Projects unter Einbeziehung des `httpStatic` Inhalts erlaubt (Projektname in diesem Beispiel ist "Redmatic")
 
-    {
-      "uiPort": 1880,
-      "uiHost": "127.0.0.1",
-      "flowFile": "flows.json",
-      "userDir": "/usr/local/addons/redmatic/var",
-      "httpRoot": "/addons/red",
-      "httpStatic": "/usr/local/addons/redmatic/var/projects/Redmatic",
-      "logging": {
-        "ain": {
-          "level": "info",
-          "metrics": false,
-          "audit": false
-        }
-      },
-
+```
+{
+  "uiPort": 1880,
+  "uiHost": "127.0.0.1",
+  "flowFile": "flows.json",
+  "userDir": "/usr/local/addons/redmatic/var",
+  "httpRoot": "/addons/red",
+  "httpStatic": "/usr/local/addons/redmatic/var/projects/Redmatic",
+  "logging": {
+    "ain": {
+      "level": "info",
+      "metrics": false,
+      "audit": false
+    }
+  },
+```
